@@ -95,4 +95,7 @@ p {
   .grid article {
     text-align: center;
   }
+  body {
+    margin-top: 80px;
+  }
 }
